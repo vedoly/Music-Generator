@@ -1,1 +1,1 @@
-# Duet-Generator
+# Music-Generator
